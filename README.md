@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SankalpVijayPatil
+- 👋 Hi, I’m Sankalp Patil
 - 👀 I’m interested in learning new skills and exploring inside and outside of computer
 - 🌱 I’m currently learning c, python, 
 - - 📫 How to reach me E mail: patilsankalp96@gmail.com
